@@ -1,5 +1,3 @@
-afl-2.52b/testcases/archives/common/bzip2/small_archive.bz2
-docker-image/qsym-docker.tar.bz2
 afl-2.52b/afl-analyze
 afl-2.52b/afl-as
 afl-2.52b/afl-clang
